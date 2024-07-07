@@ -54,7 +54,17 @@ result.edit_form()
 Вот несколько примеров результатов работы нашего проекта:
 
 <img src="https://github.com/vlyrdv/CarNumber/assets/61351039/104615ac-3c25-4972-9f03-2197c464f7b2">
+
 <br>
+
+# Работа модуля
+Здесь представлено поэтапная обработка изображения:
+
+<img src="https://github.com/vlyrdv/CarNumber/assets/83396238/3f30722b-43bf-4d7b-954a-0712dbde2d19">
+
+<br>
+
+
 
 # Контакты
 - Урядов Валерий - https://t.me/vlyrdv
