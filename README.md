@@ -48,6 +48,8 @@ result = EditImage()
 result.draw_normal_img("IMAGE-PATH", max_power=True)
 result.edit_form()
 ```
+max_power (defualt) == False - этот параметр отвечает за включение модели по улучшению качетва (важно помнить, что включив улучшение качества время работы возрастает)
+
 <br>
 
 Запуск докер контейнера
