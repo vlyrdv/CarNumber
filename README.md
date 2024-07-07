@@ -50,6 +50,12 @@ result.edit_form()
 ```
 <br>
 
+Запуск докер контейнера
+
+```
+docker run -v path/to/image_folder:/CarNumbers car_num ls -al CarNumbers/start.py
+```
+
 # Примеры
 Вот несколько примеров результатов работы нашего проекта:
 
